@@ -1,0 +1,6 @@
+{
+  "name": "DesignStudioMockups",
+  "description": "Upload a logo and place it on product mockups or generate high-resolution images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
